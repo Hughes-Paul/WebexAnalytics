@@ -30,5 +30,6 @@ Example user stats spread sheet
 [^2]: Example image of user stats spread sheet using fake names and data.
 
 Room stats spread sheet (can be found on 2nd page of excel file)
+
 ![Example stats page](https://i.imgur.com/tps4oPF.png)[^3]
 [^3]: Example image of room stats page using fake data.

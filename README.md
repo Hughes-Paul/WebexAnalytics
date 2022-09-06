@@ -1,11 +1,11 @@
-# **Webex Analyitics**
+# **Webex Message Analytics**
 
 ![Chart](https://i.imgur.com/VZ5D734.png)[^1]
 [^1]: Example of user stats chart using fake names and data.
 
 ---
 
-**Webex Analyitics is a simple script that gives you an Excel spread sheet containing info on every user in a specified room.**
+**Webex Analytics is a simple script that gives you an Excel spread sheet containing info on every user in a specified room.**
 
 ### Features
 - Processes everything on your computer, so you don't have to worry about 3rd party companies handleing your data
